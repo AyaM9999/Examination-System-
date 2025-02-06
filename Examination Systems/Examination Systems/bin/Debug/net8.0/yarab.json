@@ -1,0 +1,16 @@
+[
+  {
+    "body": "Capital of Egypt is cairo",
+    "header": "Question1",
+    "mark": 3.0,
+    "correctAnswer": 1,
+    "QuestionType": "TrueFalse"
+  },
+  {
+    "body": "Capital of Egypt is New Capital",
+    "header": "Question2",
+    "mark": 3.0,
+    "correctAnswer": 2,
+    "QuestionType": "TrueFalse"
+  }
+]

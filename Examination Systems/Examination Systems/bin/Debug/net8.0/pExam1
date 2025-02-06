@@ -1,0 +1,41 @@
+[
+  {
+    "options": [
+      "Abstraction",
+      "Encapsulation",
+      "Polymorphism",
+      "All above"
+    ],
+    "body": "What is consider oop topic",
+    "header": "Choose All option",
+    "mark": 5.0,
+    "correctAnswer": 4,
+    "QuestionType": "AllOptions"
+  },
+  {
+    "body": "Capital of Egypt is New Capital",
+    "header": "Choose True |False :",
+    "mark": 3.0,
+    "correctAnswer": 2,
+    "QuestionType": "TrueFalse"
+  },
+  {
+    "options": [
+      "Abstraction",
+      "Encapsulation",
+      "Compilation"
+    ],
+    "body": "What isnot consider oop topic",
+    "header": "Choose one option",
+    "mark": 5.0,
+    "correctAnswer": 3,
+    "QuestionType": "OneOption"
+  },
+  {
+    "body": "Capital of Egypt is cairo",
+    "header": "Choose True |False :",
+    "mark": 3.0,
+    "correctAnswer": 1,
+    "QuestionType": "TrueFalse"
+  }
+]

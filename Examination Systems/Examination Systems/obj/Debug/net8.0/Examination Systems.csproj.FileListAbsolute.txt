@@ -1,0 +1,21 @@
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\Examination Systems.csproj.AssemblyReference.cache
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\Examination Systems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\Examination Systems.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\Examination Systems.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\Examination Systems.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\bin\Debug\net8.0\Examination Systems.exe
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\bin\Debug\net8.0\Examination Systems.deps.json
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\bin\Debug\net8.0\Examination Systems.runtimeconfig.json
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\bin\Debug\net8.0\Examination Systems.dll
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\bin\Debug\net8.0\Examination Systems.pdb
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\Examinat.704334AA.Up2Date
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\Examination Systems.dll
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\refint\Examination Systems.dll
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\Examination Systems.pdb
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\Examination Systems.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\Examination Systems\Examination Systems\obj\Debug\net8.0\ref\Examination Systems.dll

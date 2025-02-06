@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xMaQwEGtwLU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FOUDA\\source\\repos\\Examination Systems\\Examination Systems\\Examination Systems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FOUDA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\FOUDA\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\FOUDA\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\FOUDA\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
